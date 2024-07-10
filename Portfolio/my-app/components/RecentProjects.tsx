@@ -7,6 +7,7 @@ const RecentProjects = () => {
             <span>Recent Project</span>
         </h1>
     </div>
+    
   )
 }
 

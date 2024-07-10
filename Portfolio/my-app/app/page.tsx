@@ -19,9 +19,10 @@ export default function Home() {
        ]}
        />
        <Hero/>
-       <Grid/>
+       {/* <Grid/> */}
        <RecentProjects/>
       </div>
     </main>
+    
   );
 }
